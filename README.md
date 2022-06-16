@@ -5,7 +5,7 @@
 2. Displayed KPI and visuals
 3. Included filters to elaborate on data story
 
-## Dashboards Online Access
+## Access Dashboards Online 
 1. E-Commerce: https://app.powerbi.com/links/733MwDBO6M?ctid=01fda0e6-366c-4a75-a737-302f57800280&pbi_source=linkShare
   - Based on data from Kaggle: https://www.kaggle.com/datasets/benroshan/ecommerce-data 
   - Aimed to determine where the company was losing money based on company information included in the dataset.
