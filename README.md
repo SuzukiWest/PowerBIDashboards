@@ -1,6 +1,6 @@
 # Power BI Dashboards
 
-
+## Basic Dashboard Steps
 1. Performed EDA of data
 2. Displayed KPI and visuals
 3. Included filters to elaborate on data story
