@@ -1,4 +1,4 @@
-# Power BI Dashboard
+# Power BI Dashboards
 
 
 1. Performed EDA of data
